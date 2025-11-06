@@ -1,0 +1,314 @@
+{
+  "event": {
+    "title": "AGN on the Beach II",
+    "subtitle": "A multi-scale view of jetted AGN",
+    "dates": "21–25 September 2026",
+    "location": "Diani, Kenya",
+    "timezone": "East Africa Time (UTC+3)"
+  },
+  "copy": {
+    "hero": {
+      "eyebrow": "21–25 September 2026 · Diani, Kenya",
+      "heading": "Detailed Programme",
+      "lead": "Session-by-session planning for “A multi-scale view of jetted AGN”.",
+      "description": "Track how the week integrates observers, theorists, and modelers to build a shared roadmap for the jet community."
+    },
+    "intro": {
+      "title": "Programme Philosophy",
+      "paragraphs": [
+        "The Scientific Organising Committee is curating a hands-on agenda balancing invited keynotes, contributed science talks, collaborative breakouts, and informal time on the beach.",
+        "Each day flows from jet launching physics to feedback on host galaxies, ensuring observations and simulations inform a shared set of priorities."
+      ],
+      "sidebar_title": "Session outline",
+      "sidebar_note": "Exact timings remain indicative and may shift slightly as speakers confirm."
+    },
+    "quicknav": {
+      "title": "Navigate by day",
+      "note": "Use the chips to jump directly to the schedule for each workshop day."
+    },
+    "schedule": {
+      "title": "Draft daily structure",
+      "note": "Invited speakers, session chairs, and logistics will be released after abstract selections in May–June 2026."
+    },
+    "resources": {
+      "title": "Upcoming Resources",
+      "items": [
+        {
+          "title": "Participant briefing pack",
+          "description": "Travel logistics, accommodation blocks, and the code of conduct will be shared alongside the second announcement."
+        },
+        {
+          "title": "Session templates",
+          "description": "Slide and poster templates will be available for download ahead of the abstract deadline."
+        },
+        {
+          "title": "Working group notes",
+          "description": "Collaborative documents will capture outcomes for each focus track and will be circulated after the workshop."
+        }
+      ]
+    },
+    "invited": {
+      "title": "Invited Speakers",
+      "lead": "The Scientific Organising Committee is finalising the invited line-up for the January 2026 circular.",
+      "people": [
+        {
+          "name": "To be announced",
+          "detail": "Full invited speaker roster released with the second announcement."
+        },
+        {
+          "name": "Community contributions",
+          "detail": "Contributed talks and posters will be selected from abstracts submitted January–April 2026."
+        }
+      ],
+      "footnote": "Watch for updates as session chairs confirm participation."
+    },
+    "loc": {
+      "title": "Local Organising Committee",
+      "lead": "The LOC will coordinate on-the-ground logistics, venue liaising, and participant support in Diani.",
+      "people": [
+        {
+          "name": "Lead coordinator",
+          "detail": "To be announced"
+        },
+        {
+          "name": "Logistics and hospitality",
+          "detail": "To be announced"
+        },
+        {
+          "name": "Finance and sponsorship",
+          "detail": "To be announced"
+        },
+        {
+          "name": "Communications liaison",
+          "detail": "To be announced"
+        }
+      ],
+      "footnote": "A full LOC roster will follow in the second announcement."
+    }
+  },
+  "legend": [
+    { "type": "Plenary keynote", "color": "#0f4c3a" },
+    { "type": "Working session", "color": "#f18f01" },
+    { "type": "Breakout discussion", "color": "#276657" },
+    { "type": "Posters & networking", "color": "#c97a3d" },
+    { "type": "Community planning", "color": "#8d6f5c" }
+  ],
+  "days": [
+    {
+      "id": "day-1",
+      "label": "Day 1",
+      "date": "Monday · 21 September 2026",
+      "theme": "Jet launching foundations",
+      "sessions": [
+        {
+          "start": "09:00",
+          "end": "09:30",
+          "title": "Welcome & framing from the SOC",
+          "type": "Community planning",
+          "location": "Ocean View Pavilion",
+          "description": "Kick off the week with expectations, working norms, and updates from the Scientific Organising Committee."
+        },
+        {
+          "start": "09:30",
+          "end": "10:30",
+          "title": "Keynote: Launching relativistic jets in low-luminosity systems",
+          "type": "Plenary keynote",
+          "location": "Ocean View Pavilion",
+          "description": "Explore the accretion physics and magnetised environments that trigger compact jet episodes in nearby galaxies."
+        },
+        {
+          "start": "11:00",
+          "end": "12:30",
+          "title": "Observational snapshots across radio/mm facilities",
+          "type": "Working session",
+          "location": "Ocean View Pavilion",
+          "description": "Share recent results from VLBI, ALMA, and MeerKAT campaigns linking parsec-scale structures to host environments."
+        },
+        {
+          "start": "14:00",
+          "end": "16:00",
+          "title": "Breakout discussions: Jet launching puzzles",
+          "type": "Breakout discussion",
+          "location": "Breakout suites",
+          "description": "Small groups align on priority questions spanning jet duty cycles, composition, and observable diagnostics."
+        },
+        {
+          "start": "18:00",
+          "end": "20:00",
+          "title": "Beach reception & poster icebreaker",
+          "type": "Posters & networking",
+          "location": "Beachfront lounge",
+          "description": "Connect with participants over posters and lightning introductions as the sun sets over Diani."
+        }
+      ]
+    },
+    {
+      "id": "day-2",
+      "label": "Day 2",
+      "date": "Tuesday · 22 September 2026",
+      "theme": "Morphology across scales",
+      "sessions": [
+        {
+          "start": "09:00",
+          "end": "10:30",
+          "title": "Plenary: Understanding compact and kiloparsec morphologies",
+          "type": "Plenary keynote",
+          "location": "Ocean View Pavilion",
+          "description": "Compare jet morphologies across environments to diagnose how hosts, fueling, and magnetic fields shape observed structure."
+        },
+        {
+          "start": "11:00",
+          "end": "12:30",
+          "title": "Parallel clinics: Environmental influences",
+          "type": "Breakout discussion",
+          "location": "Breakout suites",
+          "description": "Teams tackle how host conditions, gas supply, and feedback signatures shift as jets propagate beyond the nucleus."
+        },
+        {
+          "start": "14:00",
+          "end": "15:30",
+          "title": "Working session: Linking morphology to host galaxies",
+          "type": "Working session",
+          "location": "Ocean View Pavilion",
+          "description": "Coalesce observational diagnostics with simulation outputs to identify discriminants for future surveys."
+        },
+        {
+          "start": "16:00",
+          "end": "17:30",
+          "title": "Poster session: Early-career spotlights",
+          "type": "Posters & networking",
+          "location": "Beachfront lounge",
+          "description": "Feature early-career researchers presenting new results on compact jets and AGN feedback."
+        },
+        {
+          "start": "19:00",
+          "end": "21:00",
+          "title": "Unstructured collaboration hours",
+          "type": "Community planning",
+          "location": "Informal breakout spaces",
+          "description": "Evening slots reserved for ad-hoc collaborations, code walk-throughs, or bilateral project planning."
+        }
+      ]
+    },
+    {
+      "id": "day-3",
+      "label": "Day 3",
+      "date": "Wednesday · 23 September 2026",
+      "theme": "Simulations & model benchmarks",
+      "sessions": [
+        {
+          "start": "09:00",
+          "end": "10:30",
+          "title": "Simulation clinics: Hydrodynamical modelling",
+          "type": "Working session",
+          "location": "Ocean View Pavilion",
+          "description": "Hands-on demonstrations covering grid, particle, and hybrid approaches to modelling jet-ISM interactions."
+        },
+        {
+          "start": "11:00",
+          "end": "12:30",
+          "title": "Hands-on breakouts: Code comparison sprints",
+          "type": "Breakout discussion",
+          "location": "Breakout suites",
+          "description": "Compare methodologies, share benchmarks, and identify where simulations diverge from observational constraints."
+        },
+        {
+          "start": "14:00",
+          "end": "15:30",
+          "title": "Panel: Bridging theory and observation",
+          "type": "Plenary keynote",
+          "location": "Ocean View Pavilion",
+          "description": "Observers and simulators outline the dataset requirements and metrics needed to keep theory and data aligned."
+        },
+        {
+          "start": "18:30",
+          "end": "21:00",
+          "title": "Beachside networking dinner",
+          "type": "Posters & networking",
+          "location": "Beachfront lounge",
+          "description": "Share progress and unwind with an informal dinner overlooking the ocean."
+        }
+      ]
+    },
+    {
+      "id": "day-4",
+      "label": "Day 4",
+      "date": "Thursday · 24 September 2026",
+      "theme": "Feedback and community planning",
+      "sessions": [
+        {
+          "start": "09:00",
+          "end": "10:30",
+          "title": "Plenary: Feedback signatures in host galaxies",
+          "type": "Plenary keynote",
+          "location": "Ocean View Pavilion",
+          "description": "Assess how compact jets couple with the interstellar medium and regulate star formation across different environments."
+        },
+        {
+          "start": "11:00",
+          "end": "13:00",
+          "title": "Working groups: Coordinated observing campaigns",
+          "type": "Community planning",
+          "location": "Breakout suites",
+          "description": "Draft proposals for multi-wavelength campaigns, aligning facilities, timelines, and data sharing principles."
+        },
+        {
+          "start": "15:00",
+          "end": "16:30",
+          "title": "Roundtable: Community data sharing frameworks",
+          "type": "Breakout discussion",
+          "location": "Ocean View Pavilion",
+          "description": "Define priorities for open data, archival coordination, and shared analysis tools across the AGN jet community."
+        },
+        {
+          "start": "17:00",
+          "end": "18:00",
+          "title": "Sunset walk & informal meetups",
+          "type": "Posters & networking",
+          "location": "Diani shoreline",
+          "description": "Encourage cross-team networking with an informal stroll along the beach."
+        }
+      ]
+    },
+    {
+      "id": "day-5",
+      "label": "Day 5",
+      "date": "Friday · 25 September 2026",
+      "theme": "Synthesis & next steps",
+      "sessions": [
+        {
+          "start": "09:00",
+          "end": "10:30",
+          "title": "Synthesis reports from working groups",
+          "type": "Community planning",
+          "location": "Ocean View Pavilion",
+          "description": "Working groups recap progress, open questions, and proposed collaborative outputs."
+        },
+        {
+          "start": "11:00",
+          "end": "12:30",
+          "title": "Roadmap drafting for 2026–2030",
+          "type": "Working session",
+          "location": "Ocean View Pavilion",
+          "description": "Define shared milestones for coordinated observations, simulation benchmarks, and community infrastructure."
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "title": "Closing remarks & next actions",
+          "type": "Plenary keynote",
+          "location": "Ocean View Pavilion",
+          "description": "Summarise workshop outcomes, confirm deliverables, and outline communication pathways post-event."
+        },
+        {
+          "start": "14:00",
+          "end": "18:00",
+          "title": "Optional excursions & departures",
+          "type": "Posters & networking",
+          "location": "Diani surrounds",
+          "description": "Wind down with informal excursions or depart via shuttles to Ukunda and Nairobi."
+        }
+      ]
+    }
+  ]
+}
